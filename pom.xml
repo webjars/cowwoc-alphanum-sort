@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>cowwoc-alphanum-sort</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>cowwoc-alphanum-sort</name>
     <description>WebJar for Alphanum Sorting</description>
     <url>http://webjars.org</url>
@@ -41,7 +41,7 @@
         <url>http://github.com/webjars/cowwoc-alphanum-sort</url>
         <connection>scm:git:https://github.com/webjars/cowwoc-alphanum-sort.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/cowwoc-alphanum-sort.git</developerConnection>
-        <tag>cowwoc-alphanum-sort-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
